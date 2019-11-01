@@ -9,7 +9,6 @@ Use the arrow keys to move; if you move into the monster you hit it.
 This is more of a console rogue clone "base" than an actual game; one could extend it by designing levels adding different monster and equipment.
 
 Sample output:
-
 ```
 > npm start 
 
